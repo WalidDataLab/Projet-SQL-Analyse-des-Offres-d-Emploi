@@ -192,8 +192,10 @@ La sous-requête est utilisée pour **pré-calculer le nombre d'offres par entre
 ```
 📦 sql-job-analysis
  ┣ 📄 README.md
- ┣ 📄 problem_1_top_skills.sql
- ┗ 📄 problem_2_company_size.sql
+ ┣ 📄 Practice Problem.PNG
+ ┣ 📄 1.PNG
+ ┣ 📄 2.PNG
+ ┗ 📄 3.PNG
 ```
 
 ---
